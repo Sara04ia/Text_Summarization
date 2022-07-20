@@ -1,4 +1,4 @@
-# News Article website Summarization
+# News Article websites Summarization
 
 ## Overview
 Text Summarization is one of those applications of Natural Language Processing (NLP) which is bound to have a huge impact on our lives. With growing digital media and ever-growing publishing – who has the time to go through entire articles/documents/books to decide whether they are useful or not? Thankfully – this technology is already here.  
